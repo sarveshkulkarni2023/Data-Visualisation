@@ -1,22 +1,25 @@
-# DataGlow - Interactive Data Visualization
+# DataGlow - Power BI Data Visualization
 
-**DataGlow** is a powerful and interactive data visualization tool designed to transform raw data into insightful visuals. Whether you're analyzing trends, exploring patterns, or presenting complex datasets, **DataGlow** makes it intuitive and engaging.
+**DataGlow** is an interactive Power BI dashboard designed to transform raw data into meaningful insights. Whether you're analyzing trends, tracking KPIs, or exploring business intelligence, **DataGlow** makes data visualization intuitive and impactful.
 
 ## 🚀 Features
 
-- Interactive charts and graphs 📊  
-- Real-time data updates 🔄  
-- Multiple visualization types (bar, line, scatter, heatmap, etc.) 🎨  
-- Customizable themes and color palettes 🎨  
-- Supports large datasets efficiently ⚡  
-- Export options for reports and presentations 📜  
+- 📊 Interactive and dynamic Power BI dashboards  
+- 🔍 Advanced data filtering and drill-through capabilities  
+- 📈 Multiple visualization types (bar charts, heatmaps, scatter plots, etc.)  
+- ⚡ Optimized for large datasets  
+- 📤 Export reports in PDF, Excel, and PowerPoint  
+- 🎨 Custom themes for personalized visual aesthetics  
 
-## 📥 Installation
+## 📥 Getting Started
 
-To set up **DataGlow** locally, follow these steps:
+### Prerequisites
+- Install **Microsoft Power BI Desktop** (if you haven’t already)
+- Have access to your data source (Excel, SQL, API, etc.)
 
-```bash
-git clone https://github.com/sarveshkulkarni2023/Data-visualisation.git
-cd Data-Visualisation
-# Install dependencies
-pip install -r requirements.txt
+### Installation Steps
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/sarveshkulkarni2023/Data-Visualisation.git
+   cd Data-Visualisation
